@@ -1,4 +1,12 @@
-## Análise de Dados do COVID-19 - Prova de Estatística #2 (1º Semestre) - FIAP
+<p align="center">
+  <h2> Análise de Dados do COVID-19 - Prova de Estatística #2 (1º Semestre) - FIAP </h1>
+</p>
+
+
+![Python](https://img.shields.io/badge/Linguagem-Python-blue?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/IDE-Google%20Colab-orange?logo=googlecolab)
+
+
 Este projeto é uma continuação da análise estatística dos dados do COVID-19, desenvolvida como parte da disciplina de Estatística no primeiro semestre da FIAP. Nesta segunda etapa, aprofundamos a exploração dos dados, aplicando conceitos estatísticos avançados para avaliar casos, óbitos, recuperações e tendências ao longo do tempo.
 
 Por meio de técnicas aprimoradas de análise de dados, buscamos identificar padrões, correlações e insights que possam contribuir para uma melhor compreensão do impacto da pandemia.
@@ -8,7 +16,6 @@ O projeto contempla:
  - Análise exploratória de dados
 - Tratamento e limpeza dos dados
  - Gráficos
-
 
 
 ## 🗂 Dicionário das variáveis  
